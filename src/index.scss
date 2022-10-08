@@ -1,0 +1,13 @@
+@import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;700&family=Silkscreen&display=swap');
+
+
+// font-family: 'Silkscreen', cursive;
+
+body {
+  margin: 0;
+  font-family: -apple-system, 'IBM Plex Sans Thai', sans-serif;
+  background-color: #322d3e;
+  width: 100vw;
+  min-height: 100vh;
+}
